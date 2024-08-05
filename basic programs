@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main(){
+int Num1,Num2,Sum;
+cout<<"Enter Num1:"<<Num1<<endl;
+cout<<"Enter Num2:"<<Num2<<endl;
+Sum=Num1+Num2;
+cout<<"Sum Of Two Numbers is:"<<endl;
+return 0;
+}
